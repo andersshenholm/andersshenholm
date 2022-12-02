@@ -1,1 +1,1 @@
-Hi everyone, I’m Anders. I'm a student of CS trying to get involved with public projects. I'm most interested in user-focused design and computer security. 
+Hi, I’m Anders. I'm a long-time student of CS. I'm most interested in computer networks and security. 
