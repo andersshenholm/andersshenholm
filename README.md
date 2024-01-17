@@ -1,1 +1,1 @@
-Hi, I’m Anders. I'm a long-time student of CS. I'm most interested in computer networks and security. 
+Hi, I’m Anders. I'm a 2023 computer science grad with an interest in development, QA, networks, cloud infrastructure, and network/physical security. Right now I'm working on some web automation tools that I can use to save time. This GitHub is a place for old homework and recent personal projects. 
